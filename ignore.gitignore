@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+server_data_*/
+server_storage/
+users.json
+metadata.json
